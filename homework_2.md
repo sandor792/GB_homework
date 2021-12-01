@@ -56,7 +56,7 @@ while True:
     except KeyboardInterrupt:
         exit()
 
-       #6
+ #6
        product_structure = {
     "Название": str,
     "Цена": int,
